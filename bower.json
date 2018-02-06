@@ -1,0 +1,22 @@
+{
+  "name": "ping-pong",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Edgar Hernandez <edgarchortiz@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0",
+    "moment": "^2.20.1"
+  }
+}

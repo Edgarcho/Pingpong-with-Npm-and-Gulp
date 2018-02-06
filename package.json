@@ -19,6 +19,8 @@
     "jshint": "^2.9.5",
     "vinyl-source-stream": "^2.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "browser-sync": "^2.23.6"
+  },
   "description": ""
 }
